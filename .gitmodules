@@ -1,0 +1,3 @@
+[submodule "lib/easypost-php"]
+	path = lib/easypost-php
+	url = git://github.com/EasyPost/easypost-php.git
