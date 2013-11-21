@@ -1,4 +1,4 @@
-easyshipper
+Easyshipper
 ===========
 
 WooCommerce integration for EasyPost
