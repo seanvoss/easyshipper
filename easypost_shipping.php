@@ -1,4 +1,4 @@
-<?
+<?php
 require_once('lib/easypost-php/lib/easypost.php');
 class WC_EasyPost extends WC_Shipping_Method {
   function __construct() {
